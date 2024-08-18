@@ -1,6 +1,6 @@
 """
 Section 2
-Parallelism with Multiprocessing - Process vs Thread, Parallelism
+Parellelism with Multiprocessing - Process vs Thread, Parallelism
 Keyword - Process, Thread, 병렬성
 
 """

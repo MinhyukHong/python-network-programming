@@ -1,6 +1,6 @@
 """
 Section 2
-Parallelism with Multiprocessing - multiprocessing(2) - Naming
+Parellelism with Multiprocessing - multiprocessing(2) - Naming
 Keyword - Naming, parallel processing
 
 """

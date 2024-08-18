@@ -1,6 +1,6 @@
 """
 Section 2
-Parallelism with Multiprocessing - multiprocessing(1) - Join, is_alive
+Parellelism with Multiprocessing - multiprocessing(1) - Join, is_alive
 Keyword - multiprocessing, processing state
 
 """

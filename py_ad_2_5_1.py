@@ -1,6 +1,6 @@
 """
 Section 2
-Parallelism with Multiprocessing - multiprocessing(4) - Sharing state
+Parellelism with Multiprocessing - multiprocessing(4) - Sharing state
 Keyword - memory sharing, array, value
 
 """

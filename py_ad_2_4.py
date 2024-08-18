@@ -1,6 +1,6 @@
 """
 Section 2
-Parallelism with Multiprocessing - multiprocessing(3) - ProcessPoolExecutor
+Parellelism with Multiprocessing - multiprocessing(3) - ProcessPoolExecutor
 Keyword - ProcessPoolExecutor, as_completed, futures, timeout, dict
 
 """
